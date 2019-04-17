@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/QImageEnhancement">
+        <file>images/close.png</file>
+        <file>images/delete.png</file>
+        <file>images/enlarge.png</file>
+        <file>images/last.png</file>
+        <file>images/lessen.png</file>
+        <file>images/linear.png</file>
+        <file>images/logo.ico</file>
+        <file>images/magic.png</file>
+        <file>images/next.png</file>
+        <file>images/nonlinear1.png</file>
+        <file>images/nonlinear2.png</file>
+        <file>images/open.png</file>
+        <file>images/rotateleft.png</file>
+        <file>images/rotateright.png</file>
+        <file>images/save.png</file>
+    </qresource>
+</RCC>
